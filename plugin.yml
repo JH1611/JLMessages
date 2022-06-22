@@ -1,0 +1,7 @@
+---
+name: JLMessages
+version: 0.0.1
+main: Blast1611\JLMessages\Main
+api: 4.5.1
+src-namespace-prefix: Blast1611\JLMessages
+...

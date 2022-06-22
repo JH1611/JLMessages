@@ -1,0 +1,5 @@
+#Here you can edit the messages
+#For color text use § + number
+
+join: "Welcome {name}"
+leave: "Adios {name}"
